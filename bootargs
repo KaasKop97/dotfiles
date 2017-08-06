@@ -1,0 +1,2 @@
+options root=PARTUUID=PARTUUID rw acpi_rev_override=5 enable_psr=1 disable_power_well=0 pci=noaer
+
